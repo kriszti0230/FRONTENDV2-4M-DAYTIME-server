@@ -1,1 +1,6 @@
 # Pretty Simple Web server written in Node.js
+
+0. You can use this repository as a template for your repository or copy the files into your repository manually
+1. Open a new terminal (eg. in VS Code when your repository open)
+2. Run with the following command: `node backend/server.js` (Make sure that you are in the right directory.)
+3. If you don't need it stop it with `Control + C` keycommand.
